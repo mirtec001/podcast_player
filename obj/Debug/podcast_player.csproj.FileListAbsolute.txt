@@ -1,0 +1,16 @@
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\podcast_player.csprojResolveAssemblyReference.cache
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\PlayerWindow.baml
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\PlayerWindow.g.cs
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\PlayerApp.g.cs
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\podcast_player_MarkupCompile.cache
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\podcast_player.g.resources
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\podcast_player.exe
+C:\Users\misikp\Downloads\C# Dev\podcast_player\obj\Debug\podcast_player.pdb
+C:\Users\misikp\Downloads\C# Dev\podcast_player\podcast_player.exe
+C:\Users\misikp\Downloads\C# Dev\podcast_player\podcast_player.pdb
+C:\Users\misikp\Downloads\C# Dev\podcast_player\mscorlib.dll
+C:\Users\misikp\Downloads\C# Dev\podcast_player\normidna.nlp
+C:\Users\misikp\Downloads\C# Dev\podcast_player\normnfc.nlp
+C:\Users\misikp\Downloads\C# Dev\podcast_player\normnfd.nlp
+C:\Users\misikp\Downloads\C# Dev\podcast_player\normnfkc.nlp
+C:\Users\misikp\Downloads\C# Dev\podcast_player\normnfkd.nlp

@@ -1,0 +1,30 @@
+<!-- podcast_player.csproj -->
+<Project
+  DefaultTargets="Build"
+  ToolsVersion="4.0"
+  xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+  >
+  <PropertyGroup>
+    <OutputType>winexe</OutputType>
+    <OutputPath>.\</OutputPath>
+    <Assembly>Editor.exe</Assembly>
+    <ApplicationIcon>C:/Users/misikp/Downloads/C# Dev/podcast_player/podcast_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="PlayerApp.xaml" />
+    <Page Include="PlayerWindow.xaml" />
+    <Compile Include="PlayerWindow.cs" >
+    <DependentUpon>Editor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerApp.cs" >
+    <DependentUpon>PlayerApp.xaml</DependentUpon>
+    </Compile>
+    <Reference Include="System" />
+    <Reference Include="System.XAML" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <Import Project="$(MsbuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MsbuildBinPath)\Microsoft.WinFX.targets" />
+</Project>
